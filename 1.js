@@ -1,7 +1,7 @@
 function myfunction(){
 	var abc=document.getElementById("abc").value;
 	if (abc==="student"){
-		location.href="https://sylas1.github.io/441/about%20us.html";
+		location.href="https://sylas1.github.io/441/ci.html";
 		return false;
 	}if (abc==="parent"){
 		location.href="https://sylas1.github.io/441/";
